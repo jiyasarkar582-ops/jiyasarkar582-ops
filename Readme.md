@@ -8,8 +8,8 @@
 
 ## 🚀 About Me
 
-🎓 B.Tech in Computer Science (Internet of Things) student at University of Engineering and Management, Kolkata  
-💻 Passionate about Web Development, Machine Learning, Blockchain, and IoT  
+🎓 B.Tech in Computer Science student at Institute of Engineering and Management, Kolkata  
+💻 Passionate about Java Full Stack Development with AI integration  
 🌱 Currently learning advanced backend development, AI systems, and decentralized applications  
 ⚡ Love building real-world projects that solve meaningful problems  
 🎯 Goal: To become a Software Engineer building impactful and scalable products
